@@ -355,13 +355,6 @@ nav a {
   text-align: left;
 }
 /* Responsive */
-/* @media (min-width: 976px) {
-  .btn {
-    padding: 10px 20px;
-    font-size: 1rem;
-    margin-top: 20px;
-  }
-} */
 @media (max-width: 992px) {
   .offre .design-img {
     display: none;
@@ -444,7 +437,7 @@ nav a {
   }
 }
 
-/* SEO Section */
+/******************** SEO Section ************************/
 .seo h2 {
   font-family: "Inter";
   font-size: 259px;
@@ -493,7 +486,7 @@ nav a {
   }
 }
 
-/* Grow Section */
+/************************Grow Section ************************/
 .grow {
   margin-top: 50px;
 }
@@ -551,7 +544,7 @@ nav a {
     font-size: 3rem;
   }
 }
-/* Icon Section */
+/**************************** Icon Section ****************************/
 .icon {
   background: #f4f4f4;
   margin-top: 30px;
@@ -580,7 +573,7 @@ nav a {
   opacity: 0.8;
 }
 
-/* Notre Section */
+/************************ Notre Section *********************************/
 .notre {
   background: #000;
   margin-top: 50px;
@@ -671,16 +664,6 @@ nav a {
     font-size: 14px;
   }
 
-  /* .img-section .col-md-3 {
-    width: 100%;
-    text-align: center;
-  }
-
-  .img-section img {
-    width: 80px;
-    height: auto;
-  } */
-
   .img-section h5 {
     font-size: 24px;
   }
@@ -699,14 +682,6 @@ nav a {
     font-size: 13px;
   }
 
-  /* .img-section .col-md-3 {
-    width: 100%;
-  }
-
-  .img-section img {
-    width: 60px;
-  } */
-
   .img-section h5 {
     font-size: 20px;
   }
@@ -716,7 +691,7 @@ nav a {
   }
 }
 
-/* Project Section */
+/**************************** Project Section **************************/
 .project h4 {
   font-family: "Inter", sans-serif;
   font-size: 43px;
@@ -806,7 +781,7 @@ nav a {
   }
 }
 
-/* Footer Section  */
+/******************************Footer Section*********************************/
 .footer {
   background: #fff;
   margin-top: 5rem;
@@ -955,6 +930,8 @@ nav a {
     align-items: center;
   }
 }
+
+
 /* ---------------------------------- */
 .sticky {
   position: relative;
