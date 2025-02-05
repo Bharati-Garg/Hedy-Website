@@ -352,8 +352,8 @@ nav a {
 }
 
 .seo h2 {
-  font-family: "Inter";
-  font-size: 239px;
+  font-family: "Inter", sans-serif;
+  font-size: 200px;
   font-weight: 700;
   line-height: 288px;
   text-align: left;
