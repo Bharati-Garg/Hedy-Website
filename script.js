@@ -13,7 +13,7 @@ document.addEventListener("DOMContentLoaded", function () {
   });
 
   // Image animation
-  let images = document.querySelectorAll("img");
+  let images = document.querySelectorAll(".img");
   images.forEach((img) => {
     img.classList.add("img-zoom");
   });
