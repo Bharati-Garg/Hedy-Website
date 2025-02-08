@@ -438,54 +438,14 @@ nav a {
 }
 
 /******************** SEO Section ************************/
-.seo h2 {
-  font-family: "Inter";
-  font-size: 259px;
-  font-weight: 700;
-  line-height: 288px;
-  text-align: left;
-  color: #0000000f;
-  transform: rotate(-2deg);
-}
-
+.seo img {
+    width: 100%;
+  }
 @media (max-width: 1120px) {
-  .seo h2 {
-    font-size: 200px;
-    line-height: 170px;
-    text-align: center;
+  .seo img {
+    width: 100%;
   }
 }
-
-@media (max-width: 992px) {
-  .seo h2 {
-    font-size: 160px;
-    line-height: 120px;
-    margin-top: 40px;
-  }
-}
-
-@media (max-width: 768px) {
-  .seo h2 {
-    font-size: 100px;
-    line-height: 170px;
-    text-align: center;
-  }
-}
-
-@media (max-width: 480px) {
-  .seo h2 {
-    font-size: 80px;
-    line-height: 120px;
-  }
-}
-
-@media (max-width: 320px) {
-  .seo h2 {
-    font-size: 60px;
-    line-height: 90px;
-  }
-}
-
 /************************Grow Section ************************/
 .grow {
   margin-top: 50px;
